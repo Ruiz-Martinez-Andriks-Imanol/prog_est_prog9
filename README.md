@@ -21,6 +21,6 @@ Objetivo: Preguntar Es un programa que pide el valor de x, el cual debe estar co
 <p>Breve descripción:
 Es un programa que pide el valor de x, el cual debe estar comprendido en el rango de 0<x<10, la condición que debe tener el programa es el siguiente:
 <ul>
-<li>El programa debe decir, si x tiene un valor valido, en caso contrario indicarle el error al usuario</li>
+<li>El programa debe decir, si x tiene un valor valido, en caso contrario indicarle el error al usuario.</li>
 </ul>
 </p>
