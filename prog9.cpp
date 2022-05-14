@@ -1,19 +1,19 @@
-/* Autor: Andriks Imanol Ruiz M醨tinez, Realizado: 17/02/2022
+/* Autor: Andriks Imanol Ruiz M谩rtinez, Realizado: 17/02/2022
    Escuela: Universidad del Valle de Mexico Campus Villahermosa
-    Materia: Programaci髇 Estructrada
+    Materia: Programaci贸n Estructrada
    Ciclo: 01/2022
-	Este es un programa de selecci髇 en un rango definido de Lenguaje C de la materia de Programaci髇 Estructurada
+	Este es un programa de selecci贸n en un rango definido de Lenguaje C de la materia de Programaci贸n Estructurada
 	Muestra el uso de:
     -Variables flotantes
     -printf para mostrar varias variables
     -scanf
     -El uso de include para las librerias
     -Condicional if-else
-	-Comentarios para la doumentaci髇 interna del programa.
+	-Comentarios para la documentaci贸n interna del programa.
 */
 #include<stdio.h>
 int main() {
-	//Declaraci髇
+	//Declaraci贸n
 	float x;
 	printf("Introduce el valor de x (0<x<10): ");
 	scanf("%f", &x);
