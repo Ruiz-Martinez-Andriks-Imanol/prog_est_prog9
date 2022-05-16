@@ -1,7 +1,7 @@
 # prog_est_prog9
-Autor: Andriks Imanol Ruiz Mártinez, Fecha: 17/02/2022 <br>
+Autor: Andriks Imanol Ruiz Martínez, Fecha: 17/02/2022 <br>
 Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programación Estructrada <br>
+Materia: Programación Estructurada <br>
 Ciclo: 01/2022</p>
 <br>
 <p>Este es un programa de selección en un rango definido de Lenguaje C de la materia de Programación Estructurada<br>
@@ -17,6 +17,7 @@ Muestra el uso de:
     </p>
 <br>
 Objetivo: Preguntar Es un programa que pide el valor de x, el cual debe estar comprendido en el rango de 0<x<10.
+<br>
 <br>
 <p>Breve descripción:
 Es un programa que pide el valor de x, el cual debe estar comprendido en el rango de 0<x<10, la condición que debe tener el programa es el siguiente:
